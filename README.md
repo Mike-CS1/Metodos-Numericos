@@ -1,2 +1,2 @@
 # Metodos-Numericos
-Implementacion de los algoritmos básicos de solucion a ecuaciones de una variable que se estudian en Metodos Numéricos implementados en Python 2.7
+Implementación de los algoritmos básicos de solución a ecuaciones de una variable que se estudian en Métodos Numéricos implementados en Python 2.7
